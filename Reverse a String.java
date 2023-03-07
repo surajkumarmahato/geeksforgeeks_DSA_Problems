@@ -15,6 +15,6 @@ class Solution
             nstr= ch+nstr;
         }
         return nstr;
-        
+
     }
 }
